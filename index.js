@@ -8,4 +8,8 @@ const anotherFunc = () => {
     console.log("another func update");
 }
 
+const letsHaveFun = () => {
+    console.log("another func update");
+}
+
 helloAgain();
